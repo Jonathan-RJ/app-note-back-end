@@ -1,0 +1,1396 @@
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T17:37:07.684Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T17:40:18.202Z"}{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T20:44:35.028Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T20:54:47.266Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T21:04:08.757Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T21:08:33.991Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating user","timestamp":"2024-08-04T21:08:36.353Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating user","timestamp":"2024-08-04T21:08:38.254Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T21:09:34.049Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:09:44.221Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:11:25.039Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:11:26.558Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:11:27.313Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:11:27.566Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:11:28.809Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:11:29.427Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:11:29.602Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:11:29.758Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:15:12.816Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:15:14.109Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:15:30.970Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:15:31.622Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:15:31.789Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:15:31.959Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:15:32.120Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:15:32.278Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:15:32.426Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:15:32.606Z"}
+{"error":"getaddrinfo ENOTFOUND 127.0.0.1:3300","level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:15:33.499Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T21:16:15.838Z"}
+{"error":{"code":"ENOTFOUND","errno":-3008,"message":"getaddrinfo ENOTFOUND 127.0.0.1:3300"},"level":"error","message":"Error creating Note","timestamp":"2024-08-04T21:16:24.912Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T21:20:13.549Z"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:20:18.116Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:20:26.494Z","title":"Receta"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T21:24:15.874Z"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:32.880Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:37.150Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:38.132Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:38.694Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:38.873Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:39.042Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:39.214Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:39.370Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:39.529Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:39.699Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:39.880Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:40.061Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:40.226Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:40.381Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T21:24:40.555Z","title":"Receta"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T21:46:23.778Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:32:15.034Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:33:39.122Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:33:53.273Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:34:59.399Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:35:03.190Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:35:04.842Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:36:27.191Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:37:33.013Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:37:35.146Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:38:56.945Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:39:05.656Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:39:07.111Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:39:09.461Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:39:27.672Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:39:43.123Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:40:12.185Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:40:21.099Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:40:23.862Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:40:25.559Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:40:26.729Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:40:32.259Z"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T22:40:54.231Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T22:40:55.757Z","title":"Receta"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T22:40:57.719Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T22:40:58.641Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T22:40:59.560Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:41:34.569Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:41:36.379Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T22:41:40.687Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T22:41:41.629Z"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T22:41:46.261Z","title":"Receta"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:42:03.271Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T22:42:06.663Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:42:14.610Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:42:15.931Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T22:42:19.870Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:42:30.466Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:42:32.409Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:42:33.821Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T22:42:36.347Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T22:42:37.307Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T22:42:37.767Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T22:42:38.398Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:43:18.938Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:46:46.046Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:49:30.508Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:50:29.333Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:51:26.812Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:51:31.695Z"}
+{"error":{"code":"ER_PARSE_ERROR","errno":1064,"message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'VALUES ('1')' at line 1","sql":"SELECT * FROM notes where (id) VALUES ('1')","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'VALUES ('1')' at line 1","sqlState":"42000"},"level":"error","message":"Error gets Notes","timestamp":"2024-08-04T22:51:55.131Z"}
+{"error":{"code":"ER_PARSE_ERROR","errno":1064,"message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'VALUES ('1')' at line 1","sql":"SELECT * FROM notes where (id) VALUES ('1')","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'VALUES ('1')' at line 1","sqlState":"42000"},"level":"error","message":"Error gets Notes","timestamp":"2024-08-04T22:51:59.168Z"}
+{"error":{"code":"ER_PARSE_ERROR","errno":1064,"message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'VALUES ('1')' at line 1","sql":"SELECT * FROM notes where (id) VALUES ('1')","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'VALUES ('1')' at line 1","sqlState":"42000"},"level":"error","message":"Error gets Notes","timestamp":"2024-08-04T22:52:03.185Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:52:58.062Z"}
+{"level":"info","message":"Note with ID 1 fetched successfully","timestamp":"2024-08-04T22:53:05.187Z"}
+{"level":"warn","message":"Note with ID 0 not found","timestamp":"2024-08-04T22:53:11.731Z"}
+{"level":"info","message":"Note with ID 1 fetched successfully","timestamp":"2024-08-04T22:53:16.598Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:54:24.806Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:54:44.695Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:55:17.357Z"}
+{"level":"info","message":"Note with ID 1 fetched successfully","timestamp":"2024-08-04T22:55:50.637Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:55:53.670Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:56:49.576Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:56:59.615Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:57:00.473Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:58:15.205Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:58:18.199Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:58:19.112Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:58:19.813Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T22:59:15.765Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:59:21.004Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:59:25.193Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:59:25.832Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:59:26.320Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:59:26.485Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:59:26.650Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T22:59:26.805Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:00:24.124Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:00:31.694Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:00:32.480Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:00:32.643Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:00:40.843Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:00:41.640Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:00:42.355Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:00:54.824Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:00:58.092Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:00:58.941Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:00:59.718Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:01:00.310Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:01:00.473Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:01:00.642Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:01:00.796Z"}
+{"level":"info","message":"Received request: POST /note/service/crud/notes/1","timestamp":"2024-08-04T23:01:00.959Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:01:16.068Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:01:17.561Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:01:18.364Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:01:18.546Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:01:18.710Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:01:18.872Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:01:19.032Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:01:19.187Z"}
+{"level":"info","message":"Note with ID 1 fetched successfully","timestamp":"2024-08-04T23:01:24.176Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:01:27.522Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:01:52.882Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:01:56.692Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:01:57.515Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:02:14.202Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:02:16.949Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:02:37.804Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:02:38.668Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:02:39.351Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:02:40.079Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:02:42.533Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:02:43.323Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:03:00.491Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:03:05.013Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:03:05.779Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:03:06.533Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:03:15.849Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:03:18.571Z"}
+{"level":"info","message":"Note with ID 1 updated successfully","timestamp":"2024-08-04T23:03:19.400Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:05:45.965Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-04T23:05:50.197Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-04T23:05:51.210Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:05:57.130Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-04T23:06:03.663Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-04T23:06:04.340Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-04T23:06:04.520Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-04T23:06:04.682Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-04T23:06:05.801Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-04T23:06:06.443Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:06:11.315Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-04T23:06:13.306Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-04T23:06:15.197Z"}
+{"level":"info","message":"Note with ID 2 updated successfully","timestamp":"2024-08-04T23:06:25.141Z"}
+{"level":"info","message":"Note with ID 2 updated successfully","timestamp":"2024-08-04T23:06:26.655Z"}
+{"level":"info","message":"Note with ID 2 updated successfully","timestamp":"2024-08-04T23:06:27.187Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:06:35.895Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:08:37.757Z"}
+{"level":"info","message":"Received request: DELETE /note/service/crud/notes/4","timestamp":"2024-08-04T23:08:58.782Z"}
+{"level":"info","message":"Received request: DELETE /note/service/crud/notes/4","timestamp":"2024-08-04T23:09:00.822Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:09:29.507Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:09:30.908Z"}
+{"level":"warn","message":"Note with ID 4 not found","timestamp":"2024-08-04T23:09:32.717Z"}
+{"level":"warn","message":"Note with ID 4 not found","timestamp":"2024-08-04T23:09:34.334Z"}
+{"level":"warn","message":"Note with ID 4 not found","timestamp":"2024-08-04T23:09:35.187Z"}
+{"level":"warn","message":"Note with ID 2 not found","timestamp":"2024-08-04T23:09:41.410Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:10:08.026Z"}
+{"level":"warn","message":"Note with ID 2 not found","timestamp":"2024-08-04T23:10:11.243Z"}
+{"level":"warn","message":"Note with ID 2 not found","timestamp":"2024-08-04T23:10:14.544Z"}
+{"level":"info","message":"Note with ID 9 deleted successfully","timestamp":"2024-08-04T23:10:19.613Z"}
+{"level":"warn","message":"Note with ID 9 not found","timestamp":"2024-08-04T23:10:22.156Z"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T23:11:13.760Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T23:11:14.963Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-04T23:11:16.108Z","title":"Receta"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:11:18.574Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-04T23:11:25.747Z"}
+{"level":"info","message":"Note with ID 10 fetched successfully","timestamp":"2024-08-04T23:11:30.205Z"}
+{"level":"warn","message":"Note with ID 2 not found","timestamp":"2024-08-04T23:11:35.120Z"}
+{"level":"info","message":"Note with ID 10 updated successfully","timestamp":"2024-08-04T23:11:42.527Z"}
+{"level":"info","message":"Note with ID 10 fetched successfully","timestamp":"2024-08-04T23:11:46.031Z"}
+{"level":"warn","message":"Note with ID 9 not found","timestamp":"2024-08-04T23:11:53.871Z"}
+{"level":"info","message":"Note with ID 10 deleted successfully","timestamp":"2024-08-04T23:11:59.225Z"}
+{"level":"info","message":"Received request: GET /notes","timestamp":"2024-08-04T23:25:50.898Z"}
+{"level":"info","message":"Received request: GET /notes","timestamp":"2024-08-04T23:25:50.904Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:26:56.398Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:27:10.340Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:27:10.352Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:27:56.262Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:28:20.552Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:28:20.571Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:28:34.622Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:28:34.637Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:30:48.949Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:30:57.557Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:30:57.585Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:31:30.769Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:31:33.698Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:31:37.899Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:31:37.924Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:32:27.372Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:32:27.383Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:37:38.393Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:37:38.400Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:38:07.878Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:38:07.885Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:43:17.387Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:44:14.389Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:46:54.966Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:47:15.807Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:47:16.943Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-04T23:47:18.490Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:47:20.518Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:48:16.347Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:51:11.041Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:51:11.048Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:51:19.211Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:51:19.216Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:51:34.672Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:51:34.682Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:52:52.360Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:52:52.370Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:53:49.364Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:54:40.368Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:54:45.352Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:05.375Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:05.383Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:07.625Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:07.634Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:09.621Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:09.626Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:10.627Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:10.633Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:16.932Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:16.938Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:19.120Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:19.125Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:20.390Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:20.394Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:23.282Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:23.288Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:24.723Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:24.727Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:25.700Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:25.710Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:27.387Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:27.392Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:28.802Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:28.807Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:30.355Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:30.360Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:32.002Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:32.007Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:33.526Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:33.531Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:47.303Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:47.313Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:48.487Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:48.491Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:50.049Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:55:50.058Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:51.390Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:55:51.395Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:59:40.619Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-04T23:59:40.624Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:59:42.202Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:59:42.207Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-04T23:59:45.003Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-04T23:59:45.008Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:59:49.974Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:59:49.978Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-04T23:59:52.967Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-04T23:59:52.977Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:59:55.009Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-04T23:59:55.013Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:01:04.255Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:01:04.263Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:01:07.736Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:01:07.741Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:01:10.401Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:01:10.407Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:01:11.932Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:01:11.937Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:01:17.188Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:01:17.196Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:01:18.911Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:01:18.916Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:01:27.787Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:01:27.792Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:01:30.990Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:01:30.996Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:02:29.352Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:02:52.346Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:03:20.348Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:04:08.097Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:04:08.101Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:04:09.735Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:04:09.740Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:04:11.227Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:04:11.231Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:04:12.548Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:04:12.552Z"}
+{"level":"info","message":"Note with ID 3 fetched successfully","timestamp":"2024-08-05T00:04:15.332Z"}
+{"level":"info","message":"Note with ID 3 fetched successfully","timestamp":"2024-08-05T00:04:15.337Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:04:17.506Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:04:17.510Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:05:30.376Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:07:06.360Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:07:14.690Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:07:14.699Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:07:24.534Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:07:24.539Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:07:28.909Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:07:28.915Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:07:44.881Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:07:44.886Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:07:48.331Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:07:48.336Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:07:50.021Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:07:50.026Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:08:08.837Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:08:08.848Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:29.377Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:29.383Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:08:30.653Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:08:30.658Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:31.949Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:31.953Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:08:33.572Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:08:33.576Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:35.414Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:35.419Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:08:38.119Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:08:38.124Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:40.607Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:40.612Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:08:41.647Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:08:41.651Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:42.425Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:42.430Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:08:43.778Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:08:43.783Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:44.883Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:44.890Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:08:45.710Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:08:45.716Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:47.238Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:47.243Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:08:57.259Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:08:57.264Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:58.803Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:08:58.808Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:08:59.841Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:08:59.846Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:09:01.037Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:09:01.042Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:09:04.706Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:09:04.712Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:09:12.228Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:09:12.233Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:16.829Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:16.835Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:18.110Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:18.115Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:18.422Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:18.428Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:18.688Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:18.694Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:18.889Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:18.894Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:11:26.848Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:11:26.858Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:29.183Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:29.187Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:11:31.366Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:11:31.371Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:36.402Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:36.406Z"}
+{"level":"info","message":"Note with ID 5 fetched successfully","timestamp":"2024-08-05T00:11:40.107Z"}
+{"level":"info","message":"Note with ID 5 fetched successfully","timestamp":"2024-08-05T00:11:40.115Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:43.058Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:11:43.062Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:11:44.312Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:11:44.320Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:12:07.829Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:12:07.833Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:12:41.730Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:12:41.739Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:13:45.331Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:14:18.725Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:14:18.731Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:14:27.086Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:14:27.091Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:14:30.454Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:14:30.459Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:14:39.792Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:14:39.800Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:14:44.358Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:14:44.362Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:14:49.548Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:14:49.557Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:15:52.313Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:16:15.309Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:16:21.619Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:16:21.630Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:16:22.726Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:16:22.731Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:16:26.309Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:16:26.314Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:17:10.731Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:17:10.741Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:17:17.005Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:17:17.011Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:17:18.644Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:17:18.661Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:17:24.349Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:17:24.361Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:17:42.965Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:17:49.157Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:17:49.162Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:17:53.733Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:17:54.438Z"}
+{"level":"warn","message":"Note with ID undefined not found","timestamp":"2024-08-05T00:18:36.291Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:18:49.412Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:18:49.417Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:18:52.477Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:18:52.481Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:18:54.202Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:18:54.213Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:19:19.213Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:19:19.223Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:19:24.246Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:19:24.251Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:19:37.201Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:19:37.206Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:19:50.797Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:19:50.803Z"}
+{"level":"warn","message":"Note with ID new not found","timestamp":"2024-08-05T00:20:04.616Z"}
+{"level":"warn","message":"Note with ID new not found","timestamp":"2024-08-05T00:20:04.626Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:20:15.701Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:20:15.711Z"}
+{"level":"warn","message":"Note with ID new not found","timestamp":"2024-08-05T00:20:22.242Z"}
+{"level":"warn","message":"Note with ID new not found","timestamp":"2024-08-05T00:20:22.252Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:21:44.231Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:21:44.235Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:22:09.710Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:22:09.716Z"}
+{"level":"info","message":"Note with ID 3 fetched successfully","timestamp":"2024-08-05T00:22:20.649Z"}
+{"level":"info","message":"Note with ID 3 fetched successfully","timestamp":"2024-08-05T00:22:20.656Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:22:22.974Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:22:22.986Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:22:24.510Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:22:24.518Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:22:26.063Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:22:26.073Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:39:34.604Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:39:34.611Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:39:36.136Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:39:36.150Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:40:47.407Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:40:47.412Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:41:03.147Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:41:14.702Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:41:14.706Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:43:15.083Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:43:15.089Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:43:21.895Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:43:21.901Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:11.025Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:11.033Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:12.604Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:12.611Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:16.802Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:16.811Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:18.202Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:18.211Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:21.818Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:21.826Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:23.137Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:23.145Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:26.753Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:26.760Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:29.459Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:29.464Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:30.668Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:30.677Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:43.838Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:43.843Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:47.655Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:47.661Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:49.882Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:44:49.889Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:51.193Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:44:51.201Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:45:44.111Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:45:44.122Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:45:47.936Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:45:47.942Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:46:15.113Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:46:15.137Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:47:03.131Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:47:03.143Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:47:24.106Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:47:24.118Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:49:24.088Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:49:24.099Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:49:42.085Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:49:42.093Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:50:01.081Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:50:01.089Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:50:26.783Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:50:26.787Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:50:29.346Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:50:29.350Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:50:31.699Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:50:31.703Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:50:33.076Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:50:33.084Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:50:34.481Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:50:34.485Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:51:32.875Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:51:32.882Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:51:33.872Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:51:33.878Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:51:40.496Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:51:40.506Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:51:43.514Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:51:43.518Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:52:12.091Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:52:12.111Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:52:26.887Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:52:27.079Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:53:39.141Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:53:39.149Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:53:44.853Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:53:44.857Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:29.254Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:29.259Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:31.071Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:31.076Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:32.692Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:32.696Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:34.145Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:34.150Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:36.380Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:36.385Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:39.315Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:39.320Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:42.425Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:42.430Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:45.589Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:54:45.594Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:22.989Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:22.993Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:25.140Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:25.144Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:26.482Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:26.486Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:27.920Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:27.924Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:29.294Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:29.347Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:31.142Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:31.146Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:34.521Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:34.526Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:56.179Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:56.184Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:58.265Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:55:58.269Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:56:17.991Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:56:18.002Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:56:21.537Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:56:21.546Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:56:22.804Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:56:22.809Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:56:26.243Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T00:56:26.248Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:56:27.939Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T00:56:27.944Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:08.059Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:08.067Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:08.074Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:08.080Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:48.047Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:48.052Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:48.057Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:48.063Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:53.055Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:53.060Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:53.065Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:08:53.072Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:01.023Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:01.031Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:01.058Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:01.064Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:24.032Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:24.038Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:24.044Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:24.050Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:35.023Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:35.029Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:35.034Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:10:35.040Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:11:00.050Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:11:00.086Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:11:00.562Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:11:00.573Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:12:19.007Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:12:19.013Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:12:19.071Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:12:19.080Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:12:36.690Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:12:36.696Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:13:26.010Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:13:26.021Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:14:38.006Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:14:38.019Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:16:44.005Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:16:44.010Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:23:58.975Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:23:58.982Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:24:10.980Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:24:10.984Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:24:31.976Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:24:31.981Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:24:35.980Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:24:35.984Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:25:05.973Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:25:05.977Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:26:51.963Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:26:51.973Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:28:49.975Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:28:49.993Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:28:54.972Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:28:54.977Z"}
+{"level":"info","message":"Note with ID 3 deleted successfully","timestamp":"2024-08-05T01:29:09.919Z"}
+{"level":"warn","message":"Note with ID 3 not found","timestamp":"2024-08-05T01:29:09.928Z"}
+{"level":"warn","message":"Note with ID 3 not found","timestamp":"2024-08-05T01:29:19.514Z"}
+{"level":"warn","message":"Note with ID 3 not found","timestamp":"2024-08-05T01:29:19.524Z"}
+{"level":"warn","message":"Note with ID 3 not found","timestamp":"2024-08-05T01:29:20.610Z"}
+{"level":"warn","message":"Note with ID 3 not found","timestamp":"2024-08-05T01:29:20.619Z"}
+{"level":"warn","message":"Note with ID 3 not found","timestamp":"2024-08-05T01:29:20.971Z"}
+{"level":"warn","message":"Note with ID 3 not found","timestamp":"2024-08-05T01:29:20.983Z"}
+{"level":"warn","message":"Note with ID 3 not found","timestamp":"2024-08-05T01:29:21.263Z"}
+{"level":"warn","message":"Note with ID 3 not found","timestamp":"2024-08-05T01:29:21.278Z"}
+{"level":"warn","message":"Note with ID 3 not found","timestamp":"2024-08-05T01:30:39.760Z"}
+{"level":"warn","message":"Note with ID 3 not found","timestamp":"2024-08-05T01:30:39.774Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:30:39.799Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:30:44.273Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:30:44.279Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:30:46.012Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:30:46.017Z"}
+{"level":"info","message":"Note with ID 5 deleted successfully","timestamp":"2024-08-05T01:30:51.388Z"}
+{"level":"warn","message":"Note with ID 5 not found","timestamp":"2024-08-05T01:30:51.399Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:30:51.402Z"}
+{"level":"info","message":"Note with ID 6 deleted successfully","timestamp":"2024-08-05T01:31:01.448Z"}
+{"level":"warn","message":"Note with ID 6 not found","timestamp":"2024-08-05T01:31:01.459Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:01.460Z"}
+{"level":"info","message":"Note with ID 7 deleted successfully","timestamp":"2024-08-05T01:31:05.038Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:05.049Z"}
+{"level":"warn","message":"Note with ID 7 not found","timestamp":"2024-08-05T01:31:05.050Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:12.659Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:12.663Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:32.202Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:32.209Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:33.912Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:33.916Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:35.132Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:35.137Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:37.659Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:37.664Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:39.040Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:39.045Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:40.377Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:40.382Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:41.496Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:41.507Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:42.967Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:42.976Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:44.386Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:44.397Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:45.731Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:45.739Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:47.743Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:47.748Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:49.078Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:31:49.089Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:50.633Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:31:50.638Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:32:02.916Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:32:02.920Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:32.958Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:32.966Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:32.976Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:33.005Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:36.668Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:36.674Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:37.639Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:37.645Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:38.540Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:38.547Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:39.398Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:39.403Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:41.109Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:34:41.114Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:09.408Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:09.415Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:10.377Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:10.382Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:11.344Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:11.348Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:26.136Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:26.142Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:27.063Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:27.069Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:27.970Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:27.975Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:28.841Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:28.846Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:30.599Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:30.605Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:31.462Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:31.467Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:35.253Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:35.257Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:36:43.389Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:36:43.398Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:44.905Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:44.913Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:36:46.181Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:36:46.191Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:47.319Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:36:47.324Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:38:27.960Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:38:27.967Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:39:19.960Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:39:19.968Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:39:26.951Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:39:26.955Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:40:26.966Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:40:27.025Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:43:08.819Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:43:08.895Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:43:09.371Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:43:09.377Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:43:14.149Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:43:14.158Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:43:15.565Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:43:15.575Z"}
+{"level":"info","message":"Note with ID 8 deleted successfully","timestamp":"2024-08-05T01:43:24.652Z"}
+{"level":"warn","message":"Note with ID 8 not found","timestamp":"2024-08-05T01:43:24.661Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:43:24.663Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:44:01.481Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:44:01.486Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:44:02.908Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:44:02.919Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-05T01:44:07.886Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:44:07.896Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-05T01:44:50.263Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:44:50.275Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:46:05.818Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:46:05.823Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:46:07.190Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:46:07.201Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-05T01:46:10.947Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:46:10.957Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:51:03.037Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:51:03.042Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:51:04.983Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:51:04.989Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:51:13.415Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:51:13.424Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:51:14.648Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:51:14.656Z"}
+{"level":"info","message":"Note with ID 11 deleted successfully","timestamp":"2024-08-05T01:51:18.846Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:51:18.855Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:51:33.344Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:51:33.354Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:51:34.849Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:51:34.859Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-05T01:51:39.204Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:51:39.214Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:53:30.958Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:53:31.007Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:53:51.930Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:53:51.935Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:54:03.938Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:54:03.965Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-05T01:54:12.075Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:54:12.085Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:54:41.928Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:54:41.934Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-05T01:54:47.862Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:54:50.505Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:55:03.916Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:55:03.955Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:56:25.949Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:56:25.957Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:56:27.191Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:56:27.201Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-05T01:56:30.994Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:56:31.004Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:57:31.014Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:57:31.025Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:57:33.189Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:57:33.193Z"}
+{"level":"warn","message":"Note with ID 1 not found","timestamp":"2024-08-05T01:57:36.864Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:57:36.873Z"}
+{"level":"info","message":"Note with ID 12 deleted successfully","timestamp":"2024-08-05T01:57:58.164Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:57:58.173Z"}
+{"level":"info","message":"Note with ID 13 deleted successfully","timestamp":"2024-08-05T01:58:05.196Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:58:05.208Z"}
+{"level":"info","message":"Note with ID 14 deleted successfully","timestamp":"2024-08-05T01:58:10.962Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:58:10.970Z"}
+{"level":"info","message":"Note with ID 15 deleted successfully","timestamp":"2024-08-05T01:58:16.010Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:58:16.020Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:58:20.042Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:58:20.052Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:58:21.682Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:58:21.687Z"}
+{"level":"info","message":"Note with ID 16 deleted successfully","timestamp":"2024-08-05T01:58:25.307Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:58:25.316Z"}
+{"level":"info","message":"Note with ID 17 deleted successfully","timestamp":"2024-08-05T01:58:29.777Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:58:29.786Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:58:32.733Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T01:58:32.744Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:58:34.165Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:58:34.176Z"}
+{"level":"info","message":"Note with ID 18 deleted successfully","timestamp":"2024-08-05T01:58:38.009Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T01:58:38.019Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:00:08.955Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:00:08.969Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:00:10.633Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:00:10.644Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:01:09.088Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:01:09.096Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:01:10.294Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:01:10.306Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:01:24.751Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:01:24.760Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:04:00.916Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:04:20.902Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:04:47.900Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:08:06.263Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:08:38.073Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:08:39.023Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:09:13.772Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:09:14.570Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:09:25.609Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:09:26.484Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:09:37.880Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:09:39.239Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:09:41.574Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:09:42.986Z"}
+{"level":"info","message":"Servidor escuchando en http://localhost:4000","timestamp":"2024-08-05T02:09:44.748Z"}
+{"level":"warn","message":"Note with ID 10 not found","timestamp":"2024-08-05T02:09:47.417Z"}
+{"level":"warn","message":"Note with ID 10 not found","timestamp":"2024-08-05T02:09:48.451Z"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-05T02:09:51.672Z","title":"Receta"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-05T02:09:52.419Z","title":"Receta"}
+{"content":"kjhkjhkjh","level":"info","message":"Note created","timestamp":"2024-08-05T02:09:57.105Z","title":"Sin Titulo"}
+{"content":"kjhkjhkjh","level":"info","message":"Note created","timestamp":"2024-08-05T02:10:00.507Z","title":"Sin Titulo"}
+{"content":"kjhkjhkjh","level":"info","message":"Note created","timestamp":"2024-08-05T02:10:04.048Z","title":"Sin Titulo"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:14:06.144Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:14:06.152Z"}
+{"level":"warn","message":"Note with ID 10 not found","timestamp":"2024-08-05T02:21:29.580Z"}
+{"content":"Caldo","level":"info","message":"Note created","timestamp":"2024-08-05T02:21:32.444Z","title":"Receta"}
+{"content":"ksn","level":"info","message":"Note created","timestamp":"2024-08-05T02:22:08.052Z","title":"Sin Titulo"}
+{"content":"ss","level":"info","message":"Note created","timestamp":"2024-08-05T02:35:39.335Z","title":"Sin Titulo"}
+{"content":"ss","level":"info","message":"Note created","timestamp":"2024-08-05T02:35:54.585Z","title":"ck"}
+{"content":"ss","level":"info","message":"Note created","timestamp":"2024-08-05T02:35:58.691Z","title":"ck"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:00.614Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:00.626Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:14.615Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:14.620Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:22.060Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:22.067Z"}
+{"level":"info","message":"Note with ID 22 deleted successfully","timestamp":"2024-08-05T02:36:26.598Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:26.608Z"}
+{"level":"info","message":"Note with ID 29 deleted successfully","timestamp":"2024-08-05T02:36:33.643Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:33.653Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:38.785Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:38.794Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:48.103Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:48.110Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:36:51.145Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:36:51.151Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:52.908Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:52.913Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T02:36:56.275Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T02:36:56.281Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:58.894Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:36:58.901Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:37:10.638Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:37:10.643Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:18.159Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:18.164Z"}
+{"level":"info","message":"Note with ID 23 updated successfully","timestamp":"2024-08-05T02:43:25.332Z"}
+{"level":"info","message":"Note with ID 23 updated successfully","timestamp":"2024-08-05T02:43:27.524Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:43:29.174Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:43:29.186Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:34.969Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:34.980Z"}
+{"level":"info","message":"Note with ID 23 updated successfully","timestamp":"2024-08-05T02:43:40.109Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:43:41.352Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:43:41.369Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:47.086Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:47.094Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:43:49.208Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:43:49.213Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:50.321Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:50.332Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:43:51.708Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:43:51.712Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:54.184Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:54.188Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:57.098Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:57.105Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:58.985Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:58.991Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:59.662Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:43:59.667Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:44:01.169Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:44:01.179Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:44:02.295Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:44:02.304Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:44:04.018Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:44:04.027Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:44:05.978Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:44:05.983Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:44:08.936Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:44:08.942Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:44:10.199Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:44:10.204Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:44:13.001Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:44:13.006Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:45:09.698Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:45:09.707Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:45:11.244Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:45:11.249Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:45:13.281Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:45:13.291Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:45:15.817Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:45:15.826Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:45:17.116Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:45:17.126Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:45:18.432Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:45:18.442Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:45:47.364Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:45:47.375Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:45:51.745Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:45:51.754Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:46:04.470Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:46:04.477Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:46:11.345Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:46:11.358Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:47:29.740Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:47:29.751Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:47:31.122Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:47:31.133Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:47:32.882Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:47:32.896Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:47:34.774Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:47:34.785Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T02:48:05.396Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T02:48:05.402Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:48:07.524Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:48:07.530Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:48:08.560Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:48:08.575Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:48:09.851Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:48:09.864Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:48:12.898Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:48:12.913Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:48:15.337Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:48:15.352Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:48:17.746Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:48:17.758Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:48:20.394Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:48:20.414Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:48:23.444Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:48:23.457Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:48:25.906Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:48:25.922Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:51:02.546Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:51:03.293Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:51:05.329Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:51:05.334Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T02:51:08.335Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T02:51:08.339Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:51:09.615Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:51:09.623Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:51:10.931Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:51:10.936Z"}
+{"level":"info","message":"Note with ID 23 updated successfully","timestamp":"2024-08-05T02:51:14.802Z"}
+{"level":"info","message":"Note with ID 23 updated successfully","timestamp":"2024-08-05T02:51:18.901Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:52:07.894Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:52:07.899Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:52:10.888Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:52:10.904Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:54:08.899Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:54:08.908Z"}
+{"level":"info","message":"Note with ID 23 fetched successfully","timestamp":"2024-08-05T02:54:21.882Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:54:21.883Z"}
+{"level":"info","message":"Note with ID 23 updated successfully","timestamp":"2024-08-05T02:54:27.229Z"}
+{"level":"info","message":"Note with ID 23 updated successfully","timestamp":"2024-08-05T02:54:32.650Z"}
+{"level":"info","message":"Note with ID 23 updated successfully","timestamp":"2024-08-05T02:54:44.359Z"}
+{"level":"info","message":"Note with ID 23 updated successfully","timestamp":"2024-08-05T02:54:52.880Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:54:54.978Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:54:54.989Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T02:54:58.903Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T02:54:58.908Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T02:55:02.311Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:55:04.605Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:55:04.611Z"}
+{"content":"opjsj","level":"info","message":"Note created","timestamp":"2024-08-05T02:55:11.207Z","title":"iis"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:55:13.768Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:55:13.781Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T02:55:29.840Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T02:55:29.846Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:55:31.761Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:55:31.767Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T02:55:32.974Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T02:55:32.981Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:55:34.197Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T02:55:34.202Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:03:28.730Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:03:28.736Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T03:03:34.657Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:03:51.874Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:03:54.511Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:03:54.524Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:03:56.107Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:03:56.116Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T03:04:05.646Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:04:05.650Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:04:05.654Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:04:08.170Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:04:08.175Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T03:04:27.030Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:04:27.035Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:04:27.040Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:05:06.078Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:05:07.523Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:06:10.848Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:06:10.856Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:06:12.729Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:06:12.738Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:16.123Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:16.133Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:06:17.421Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:06:17.431Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T03:06:32.178Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:32.219Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:32.232Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:06:36.314Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:06:36.319Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:38.450Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:38.460Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:06:39.336Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:06:39.341Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:40.516Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:40.527Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:43.615Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:43.619Z"}
+{"content":"s","level":"info","message":"Note created","timestamp":"2024-08-05T03:06:56.216Z","title":"Sin Titulo"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:56.254Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:06:56.262Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:07:03.118Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:07:03.123Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:07:40.315Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:07:40.322Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:07:45.402Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:07:45.407Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:07:50.871Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:07:50.881Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:07:53.481Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:07:53.486Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T03:07:59.491Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:07:59.533Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:07:59.547Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:08:01.645Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:08:01.650Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T03:08:03.249Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T03:08:06.249Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:08:11.180Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:08:11.184Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:08:12.799Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:08:12.803Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:09:36.895Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:09:43.895Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:10:03.135Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:10:03.141Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:10:05.410Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:10:05.414Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:10:07.529Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:10:07.539Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:10:08.577Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:10:08.581Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:10:20.761Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:10:20.767Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:10:22.754Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:10:22.760Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:11:06.360Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:11:06.376Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:11:10.350Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:11:10.355Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:11:20.102Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:11:20.121Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:12:17.735Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:12:17.745Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:12:23.465Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:12:23.473Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:12:26.703Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:12:26.708Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:12:30.913Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:12:30.923Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:12:33.924Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:12:33.928Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T03:12:39.519Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:12:39.655Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:12:39.756Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:12:41.868Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:12:41.880Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:12:43.917Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:12:43.927Z"}
+{"content":"iuhu","level":"info","message":"Note created","timestamp":"2024-08-05T03:13:50.651Z","title":"hihiuh"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:14:18.261Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:14:18.271Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:16:54.872Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:17:06.895Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:17:48.924Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:18:06.878Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:18:29.878Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:18:33.895Z"}
+{"content":"ss","level":"info","message":"Note created","timestamp":"2024-08-05T03:18:42.423Z","title":"Sin Titulo"}
+{"content":"ss","level":"info","message":"Note created","timestamp":"2024-08-05T03:18:50.482Z","title":"Sin Titulo"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:19:22.873Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:20:30.874Z"}
+{"content":"ss","level":"info","message":"Note created","timestamp":"2024-08-05T03:20:35.562Z","title":"Sin Titulo"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:21:01.873Z"}
+{"content":"ss","level":"info","message":"Note created","timestamp":"2024-08-05T03:21:06.721Z","title":"Sin Titulo"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:21:20.872Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:21:30.880Z"}
+{"content":"ss","level":"info","message":"Note created","timestamp":"2024-08-05T03:23:50.789Z","title":"Sin Titulo"}
+{"content":"sjs","level":"info","message":"Note created","timestamp":"2024-08-05T03:24:02.285Z","title":"Sin Titulo"}
+{"content":"sjs","level":"info","message":"Note created","timestamp":"2024-08-05T03:24:32.683Z","title":"Sin Titulo"}
+{"content":"sjs","level":"info","message":"Note created","timestamp":"2024-08-05T03:25:11.364Z","title":"Sin Titulo"}
+{"level":"info","message":"Note with ID 44 fetched successfully","timestamp":"2024-08-05T03:25:11.411Z"}
+{"level":"info","message":"Note with ID 44 updated successfully","timestamp":"2024-08-05T03:25:13.877Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:25:17.671Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:25:17.684Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:25:41.247Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:25:41.257Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:26:45.902Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:26:45.908Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:26:45.912Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:26:45.918Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:27:35.906Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:27:35.920Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:28:40.894Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:28:40.901Z"}
+{"content":"jhihih","level":"info","message":"Note created","timestamp":"2024-08-05T03:29:39.368Z","title":"jhjh"}
+{"content":"jhihih","level":"info","message":"Note created","timestamp":"2024-08-05T03:29:51.022Z","title":"jhjh"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:29:54.825Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:29:54.831Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:29:57.131Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:29:57.137Z"}
+{"content":"sjjs","level":"info","message":"Note created","timestamp":"2024-08-05T03:30:23.930Z","title":"Sin Titulo"}
+{"level":"info","message":"Note with ID 47 fetched successfully","timestamp":"2024-08-05T03:30:23.968Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:30:29.746Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:30:29.762Z"}
+{"content":"ss","level":"info","message":"Note created","timestamp":"2024-08-05T03:30:35.479Z","title":"Sin Titulo"}
+{"level":"info","message":"Note with ID 48 fetched successfully","timestamp":"2024-08-05T03:30:35.515Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:30:37.703Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:30:37.709Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:31:01.797Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:31:01.804Z"}
+{"content":"iuhuih","level":"info","message":"Note created","timestamp":"2024-08-05T03:31:12.149Z","title":"Sin Titulo"}
+{"level":"info","message":"Note with ID 49 fetched successfully","timestamp":"2024-08-05T03:31:12.186Z"}
+{"level":"info","message":"Note with ID 49 updated successfully","timestamp":"2024-08-05T03:31:23.615Z"}
+{"level":"info","message":"Note with ID 49 updated successfully","timestamp":"2024-08-05T03:31:58.781Z"}
+{"level":"info","message":"Note with ID 49 updated successfully","timestamp":"2024-08-05T03:32:12.524Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:12.563Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:12.578Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:32:14.637Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:32:14.644Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:16.004Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:16.008Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:32:17.002Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:32:17.011Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:18.186Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:18.195Z"}
+{"level":"info","message":"Note with ID 46 fetched successfully","timestamp":"2024-08-05T03:32:21.869Z"}
+{"level":"info","message":"Note with ID 46 fetched successfully","timestamp":"2024-08-05T03:32:21.881Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:25.421Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:25.426Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:32:26.923Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:32:26.928Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T03:32:33.122Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:33.156Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:33.163Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:32:34.967Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:32:34.975Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T03:32:38.825Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:41.630Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:41.639Z"}
+{"content":"hh","level":"info","message":"Note created","timestamp":"2024-08-05T03:32:48.614Z","title":"hjbh"}
+{"level":"info","message":"Note with ID 50 fetched successfully","timestamp":"2024-08-05T03:32:48.639Z"}
+{"level":"info","message":"Note with ID 50 updated successfully","timestamp":"2024-08-05T03:32:54.181Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:56.532Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:32:56.537Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:00.938Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:00.943Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:02.522Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:02.530Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:03.411Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:03.420Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:07.893Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:07.901Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:10.037Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:10.043Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:15.560Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:15.568Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:18.252Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:18.260Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:19.471Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:19.480Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:20.570Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:20.577Z"}
+{"level":"info","message":"Note with ID 19 updated successfully","timestamp":"2024-08-05T03:33:25.594Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:25.624Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:25.636Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:28.232Z"}
+{"level":"info","message":"Note with ID 19 fetched successfully","timestamp":"2024-08-05T03:33:28.239Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:31.748Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:31.756Z"}
+{"level":"info","message":"Note with ID 19 deleted successfully","timestamp":"2024-08-05T03:33:51.126Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:33:51.135Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:33:56.008Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:33:56.013Z"}
+{"level":"info","message":"Note with ID 20 updated successfully","timestamp":"2024-08-05T03:34:03.171Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:34:03.204Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:34:03.209Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:35:03.690Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:35:03.697Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:35:05.846Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:35:05.855Z"}
+{"level":"info","message":"Note with ID 34 fetched successfully","timestamp":"2024-08-05T03:35:08.448Z"}
+{"level":"info","message":"Note with ID 34 fetched successfully","timestamp":"2024-08-05T03:35:08.455Z"}
+{"level":"info","message":"Note with ID 34 updated successfully","timestamp":"2024-08-05T03:35:15.441Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:35:39.581Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:35:39.590Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:35:42.042Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:35:42.049Z"}
+{"level":"info","message":"Note with ID 20 updated successfully","timestamp":"2024-08-05T03:35:49.049Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:37:31.862Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:38:09.869Z"}
+{"level":"info","message":"Note with ID 20 updated successfully","timestamp":"2024-08-05T03:38:15.671Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:38:21.765Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:38:21.778Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:38:22.842Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:38:22.850Z"}
+{"level":"info","message":"Note with ID 20 updated successfully","timestamp":"2024-08-05T03:38:26.984Z"}
+{"level":"info","message":"Note with ID 20 updated successfully","timestamp":"2024-08-05T03:38:37.118Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:39:13.869Z"}
+{"level":"info","message":"Note with ID 20 updated successfully","timestamp":"2024-08-05T03:39:20.606Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:39:51.868Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:40:12.852Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:40:15.398Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:40:15.414Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:40:16.609Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:40:16.613Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:40:59.948Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:41:02.908Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:41:02.927Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:41:04.481Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:41:04.491Z"}
+{"level":"info","message":"Note with ID 20 updated successfully","timestamp":"2024-08-05T03:41:13.073Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:42:11.860Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:42:17.246Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:42:17.253Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:42:18.282Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:42:18.292Z"}
+{"level":"info","message":"Note with ID 20 updated successfully","timestamp":"2024-08-05T03:42:23.743Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:42:26.538Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:42:26.544Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:42:28.216Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:42:28.226Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:42:39.704Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:42:39.708Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:42:40.828Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:42:40.833Z"}
+{"level":"info","message":"Note with ID 20 updated successfully","timestamp":"2024-08-05T03:42:49.575Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:42:52.952Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:42:52.958Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:42:54.292Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:42:54.297Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:44:12.310Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:44:12.321Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:44:13.594Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:44:13.599Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:44:16.002Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:44:16.006Z"}
+{"level":"warn","message":"Note with ID null not found","timestamp":"2024-08-05T03:45:11.424Z"}
+{"level":"warn","message":"Note with ID null not found","timestamp":"2024-08-05T03:45:43.855Z"}
+{"level":"warn","message":"Note with ID NaN not found","timestamp":"2024-08-05T03:46:00.544Z"}
+{"level":"warn","message":"Note with ID NaN not found","timestamp":"2024-08-05T03:46:04.368Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:46:10.292Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:46:10.297Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:46:11.870Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:46:11.881Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:46:13.328Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:46:13.337Z"}
+{"content":"jnj","level":"info","message":"Note created","timestamp":"2024-08-05T03:46:22.776Z","title":"Sin Titukklo"}
+{"level":"info","message":"Note with ID 51 fetched successfully","timestamp":"2024-08-05T03:46:22.806Z"}
+{"level":"info","message":"Note with ID 51 updated successfully","timestamp":"2024-08-05T03:46:30.627Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:46:32.542Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:46:32.546Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:46:33.836Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:46:33.845Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:46:36.220Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:46:36.229Z"}
+{"level":"info","message":"Note with ID 32 fetched successfully","timestamp":"2024-08-05T03:46:41.353Z"}
+{"level":"info","message":"Note with ID 32 fetched successfully","timestamp":"2024-08-05T03:46:41.359Z"}
+{"level":"info","message":"Note with ID 32 updated successfully","timestamp":"2024-08-05T03:46:43.651Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:46:45.897Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:46:45.903Z"}
+{"content":"iijioj","level":"info","message":"Note created","timestamp":"2024-08-05T03:46:58.270Z","title":"Sin "}
+{"level":"info","message":"Note with ID 52 fetched successfully","timestamp":"2024-08-05T03:46:58.302Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:47:04.523Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:47:04.529Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:47:05.668Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:47:05.673Z"}
+{"level":"info","message":"Note with ID 20 updated successfully","timestamp":"2024-08-05T03:47:12.405Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:47:14.569Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:47:14.574Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:47:15.657Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:47:15.662Z"}
+{"level":"info","message":"Note with ID 20 updated successfully","timestamp":"2024-08-05T03:47:24.136Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:47:24.172Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:47:24.184Z"}
+{"level":"info","message":"Note with ID 48 fetched successfully","timestamp":"2024-08-05T03:47:33.091Z"}
+{"level":"info","message":"Note with ID 48 fetched successfully","timestamp":"2024-08-05T03:47:33.097Z"}
+{"level":"info","message":"Note with ID 48 updated successfully","timestamp":"2024-08-05T03:47:41.616Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:47:43.647Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:47:43.653Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:47:59.710Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:47:59.735Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:57:10.757Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:57:10.765Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:57:20.812Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:57:20.816Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:57:21.851Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:57:21.856Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:57:23.523Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:57:23.530Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:57:25.524Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:57:25.529Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:57:31.625Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:57:31.631Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:57:35.533Z"}
+{"level":"info","message":"Note with ID 20 fetched successfully","timestamp":"2024-08-05T03:57:35.537Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:57:38.311Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:57:38.314Z"}
+{"level":"info","message":"Note with ID 20 deleted successfully","timestamp":"2024-08-05T03:57:43.282Z"}
+{"level":"info","message":"Note created","timestamp":"2024-08-05T03:57:43.289Z"}

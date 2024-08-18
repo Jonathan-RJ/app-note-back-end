@@ -1,0 +1,26 @@
+### Creando notas
+POST http://localhost:4000/note/service/crud/notes
+Content-Type: application/json
+
+{
+  "title": "Receta",
+  "content": "Caldo"
+}
+
+### Obtener todas las notas
+GET http://localhost:4000/note/service/crud/notes
+
+### Obtener nota especifica
+GET http://localhost:4000/note/service/crud/notes/10
+
+### Actualizando nota
+PUT  http://localhost:4000/note/service/crud/notes/10
+Content-Type: application/json
+
+{
+  "title": "Recetsssa",
+  "content": "Caldo"
+}
+
+### Obtener nota especifica
+DELETE  http://localhost:4000/note/service/crud/notes/10
